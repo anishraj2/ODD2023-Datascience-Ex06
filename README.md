@@ -28,6 +28,7 @@ Register No: 212222230010
   ```Python
   df.head()
   df.info()
+  df.describe()
   ```
   ![Basic Information](1.png)
   ![Basic Information](2.png)
